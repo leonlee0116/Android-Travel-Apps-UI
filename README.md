@@ -22,7 +22,7 @@ A modern design of Android UI which is ready to use. This project was developed 
 
 ## Reference
 
-[Best Travelling App for Android by Excellent WebWorld](https://dribbble.com/shots/6724418-Movie-app)
+[Best Travelling App for Android by Excellent WebWorld](https://dribbble.com/shots/9974938-Best-Travelling-App-for-Android)
 
 
 ## Buy me a coffee
