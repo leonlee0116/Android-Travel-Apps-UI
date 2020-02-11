@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Home">
+    tools:context=".Home"
+    android:id="@+id/root_home">
 
     <ImageView
         android:id="@+id/iv_menu"
@@ -101,6 +102,7 @@
                 android:textSize="20dp"/>
 
             <ScrollView
+                android:id="@+id/sv_content"
                 android:layout_marginTop="25dp"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
