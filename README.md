@@ -8,7 +8,7 @@ A modern design of Android UI which is ready to use. This project was developed 
 ## Screenshots
 
 ![Imgur](https://i.imgur.com/8xzK2wtl.png)
-![Imgur](https://i.imgur.com/Hz60WVWl.gif)
+
 
 ## Coming Soon
 
